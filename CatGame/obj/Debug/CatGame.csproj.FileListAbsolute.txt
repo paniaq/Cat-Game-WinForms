@@ -1,0 +1,11 @@
+C:\Users\Aquino\source\repos\CatGame\CatGame\bin\Debug\CatGame.exe.config
+C:\Users\Aquino\source\repos\CatGame\CatGame\bin\Debug\CatGame.exe
+C:\Users\Aquino\source\repos\CatGame\CatGame\bin\Debug\CatGame.pdb
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.csprojResolveAssemblyReference.cache
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.Form1.resources
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.Properties.Resources.resources
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.csproj.GenerateResource.cache
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.csproj.CoreCompileInputs.cache
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.exe
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.pdb
+C:\Users\Aquino\source\repos\CatGame\CatGame\obj\Debug\CatGame.AltaNombre.resources
